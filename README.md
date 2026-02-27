@@ -38,6 +38,8 @@ Every year, students discard tons of usable furniture, textbooks, and electronic
 ### The Solution
 ReLoop closes the loop by providing a trusted, student-only platform where every sustainable action—scanning a bottle, selling a book, or upcycling a shirt—is verified and rewarded.
 
+> **📝 Note on Commit History:** This repository has a limited number of commits because it builds upon the same model/codebase that was originally submitted during the **initial round of the Symbiosis Skill Hack hackathon**, developed by **Team WhyZeroOne**. The core architecture and features were carried forward from that submission, with iterative improvements made on top of it.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
